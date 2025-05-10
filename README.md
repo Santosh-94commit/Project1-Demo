@@ -1,3 +1,3 @@
 # Project1-Demo
 This is my first Repository
-Author- Satosh Pujari
+Author- Santosh Pujari
